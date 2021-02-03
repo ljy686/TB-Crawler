@@ -4,8 +4,8 @@
 
 _DEBUG = False
 _VERSION = 'v0.8.0'
-_USERNAME = 'xxxx'
-_PASSWORD = 'xxxx'
+_USERNAME = '1416630955@qq.com'
+_PASSWORD = '868688aa'
 
 
 def usage():
